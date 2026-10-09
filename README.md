@@ -9,7 +9,8 @@ A Home Assistant custom integration that exposes lists from a self-hosted
 2. Add `https://github.com/wyne/yarukoto-home-assistant` as an **Integration**.
 3. Install **Yarukoto** and restart Home Assistant.
 4. In Home Assistant, open **Settings → Devices & services → Add integration**,
-   search for **Yarukoto**, and enter the URL and token for your server.
+   search for **Yarukoto**, and enter your server URL. Home Assistant shows a
+   sign-in code; approve it from **Settings → Add a device** in Yarukoto.
 
 See the [Yarukoto Home Assistant guide](https://docs.yarukotoapp.com/integrations/home-assistant/)
 for server and authentication details.
