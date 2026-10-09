@@ -1,0 +1,12 @@
+{
+  "domain": "yarukoto",
+  "name": "Yarukoto",
+  "codeowners": ["@wyne"],
+  "config_flow": true,
+  "documentation": "https://docs.yarukotoapp.com/integrations/home-assistant/",
+  "integration_type": "service",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/wyne/yarukoto-home-assistant/issues",
+  "requirements": [],
+  "version": "0.1.1"
+}
